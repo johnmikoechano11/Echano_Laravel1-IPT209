@@ -7,13 +7,17 @@ use App\Models\Student;
 
 class StudentController extends Controller
 {
-    public function getStudents(){
+    // Rename getStudents to index
+    public function index()
+    {
         $students = Student::with('course', 'yearLevel', 'section')->get();
 
         return response()->json(['students' => $students]);
     }  
 
-    public function addStudent(Request $request){
+    // Rename addStudent to store
+    public function store(Request $request)
+    {
         $request->validate([
             'first_name' => ['required', 'string', 'max:255'],
             'middle_name' => ['nullable', 'string', 'max:255'],
@@ -37,7 +41,9 @@ class StudentController extends Controller
         return response()->json(['message' => 'Student added successfully', 'student' => $student]);
     }
 
-    public function editStudent(Request $request, $id){
+    // Rename editStudent to update
+    public function update(Request $request, $id)
+    {
         $request->validate([
             'first_name' => ['required', 'string', 'max:255'],
             'middle_name' => ['nullable', 'string', 'max:255'],
@@ -50,7 +56,7 @@ class StudentController extends Controller
 
         $student = Student::find($id);
 
-        if(!$student){
+        if (!$student) {
             return response()->json(['message' => 'Student not found'], 404);
         }
 
@@ -64,13 +70,15 @@ class StudentController extends Controller
             'section_id' => $request->section_id,
         ]);
 
-        return response()->json(['message' => 'Student updated successfully', 'student' => $student ]);
+        return response()->json(['message' => 'Student updated successfully', 'student' => $student]);
     }   
 
-    public function deleteStudent($id){
+    // Rename deleteStudent to destroy
+    public function destroy($id)
+    {
         $student = Student::find($id);
 
-        if(!$student){
+        if (!$student) {
             return response()->json(['message' => 'Student not found'], 404);
         }
 
