@@ -2,24 +2,21 @@
   
   <!-- Animated 3D Gradient Header -->
 <div align="center">
-  <table border="0" cellpadding="20" cellspacing="0" style="border-radius: 20px; background: linear-gradient(135deg, #0a0a2a, #1a1a3a); width: 100%;">
-    <tr>
-      <td align="center">
-        <h1 style="color: #ffffff; font-family: 'Courier New', monospace; font-size: 48px; margin: 0; text-shadow: 0 0 10px #00ffff;">🏆 Ronbell B. Abarquez 🏆</h1>
-        <h3 style="color: #00ffff; font-family: 'Courier New', monospace; font-size: 20px; margin: 10px 0;">⚡ Scholarship Management System ⚡</h3>
-        <p style="color: #ffd700; font-family: 'Courier New', monospace; font-size: 14px;">Laravel • PHP • MySQL • Bootstrap • Sanctum API</p>
-        <br>
-        <table border="0" cellpadding="5" align="center">
-          <tr>
-            <td><span style="background: #ff00ff; padding: 5px 15px; border-radius: 20px; color: white;">🔐 API Ready</span></td>
-            <td><span style="background: #00ffff; padding: 5px 15px; border-radius: 20px; color: #0a0a2a;">⚡ Fast</span></td>
-            <td><span style="background: #ffd700; padding: 5px 15px; border-radius: 20px; color: #0a0a2a;">🎓 Scholarship</span></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</div>  
+  <div style="perspective: 1000px; width: 100%; max-width: 900px; margin: 20px auto;">
+    <div style="width: 100%; height: 250px; background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 20px; transform-style: preserve-3d; transition: transform 0.3s; box-shadow: 0 20px 40px rgba(0,0,0,0.3);" onmouseover="this.style.transform='rotateX(5deg) rotateY(10deg)';" onmouseout="this.style.transform='rotateX(0deg) rotateY(0deg)';">
+      <div style="position: relative; padding: 40px; text-align: center;">
+        <div style="font-size: 60px; margin-bottom: 20px;">🏆 🎓 ⭐</div>
+        <h1 style="color: #ffffff; font-family: 'Orbitron', monospace; font-size: 36px; margin: 0; text-shadow: 0 0 20px #00ffff;">Ronbell B. Abarquez</h1>
+        <p style="color: #00ffff; font-family: 'Orbitron', monospace; font-size: 18px; margin-top: 15px;">Scholarship Management System | Quantum Edition</p>
+        <div style="margin-top: 20px;">
+          <span style="background: rgba(0,255,255,0.2); padding: 5px 15px; border-radius: 20px; color: #00ffff; margin: 0 5px;">⚡ API Ready</span>
+          <span style="background: rgba(255,0,255,0.2); padding: 5px 15px; border-radius: 20px; color: #ff00ff; margin: 0 5px;">🔐 Sanctum Auth</span>
+          <span style="background: rgba(255,215,0,0.2); padding: 5px 15px; border-radius: 20px; color: #ffd700; margin: 0 5px;">📊 Real-time Stats</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div> 
   <!-- 3D Glowing Badges -->
   <p>
     <img src="https://img.shields.io/badge/👨‍💻_Developer-Ronbell_B._Abarquez-00ffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=00ffff&logoWidth=25&style=plastic" alt="Developer" />
@@ -80,7 +77,7 @@
         <br/>
         <b>Technology Stack</b>
         <br/>
-        Laravel 11+
+        Laravel 10+
       </td>
       <td align="center">
         <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="Repo"/>
