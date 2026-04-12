@@ -156,7 +156,7 @@
 <div align="center">
 
 ### 🤝 Connect with the Developer
-<a href="https://github.com/lecciones/Jay-Ric-Lecciones">
+<a href="https://github.com/lecciones/Lecciones_Laravel1-IPT209">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:ronbell.abarquez@cit.edu">
@@ -169,4 +169,4 @@
 
 **© 2026 Jay Ric G. Lecciones | Scholarship Management System**
 
-</div>
+</div>    
