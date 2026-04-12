@@ -60,7 +60,7 @@
         <br/>
         <b>Developer</b>
         <br/>
-        Ronbell B. Abarquez
+       Lecciones Jay Ric
       </td>
       <td align="center">
         <img src="https://img.icons8.com/fluency/48/000000/classroom.png" alt="Course"/>
@@ -90,7 +90,7 @@
         <br/>
         <b>Postman Workspace</b>
         <br/>
-        <a href="https://www.postman.com/ronbell112323-1778467/ronbell-abarquez-s-workspace/folder/52439620-018d84e4-8f01-40dc-bc80-4ba5d9b0f589?authuser=0&sideView=agentMode">Access Here</a>
+        <a href="https://www.postman.com/leccionesjayric-9321815/workspace/jay-ric-lecciones-s-workspace/collection/53548851-fe1acfe2-2c9d-474d-9fa8-a293aaf1d45f?action=share&source=copy-link&creator=53548851">Access Here</a>
       </td>
     </tr>
   </table>
