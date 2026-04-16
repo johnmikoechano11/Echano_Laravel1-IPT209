@@ -13,17 +13,17 @@
 </div>
 
 <p>
-  <a href="https://github.com/lecciones/Lecciones_Laravel1-IPT209">
+  <a href=" https://github.com/johnmikoechano11/Echano_Laravel1-IPT209.git">
     <img src="https://img.shields.io/badge/Developer-Jay_Ric_G._Lecciones-white?style=flat&logo=github&logoColor=181717&labelColor=f5f8fa&color=e1e8ed" alt="Developer" />
   </a>
   <img src="https://img.shields.io/badge/Course-BSIT_2D-white?style=flat&logo=googleclassroom&logoColor=5f6368&labelColor=f5f8fa&color=e1e8ed" alt="Course" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/lecciones/Lecciones_Laravel1-IPT209">
+  <a href=" https://github.com/johnmikoechano11/Echano_Laravel1-IPT209.git">
     <img src="https://img.shields.io/badge/VIEW_CODE-333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.postman.com/leccionesjayric-9321815/workspace/jay-ric-lecciones-s-workspace/collection/53548851-fe1acfe2-2c9d-474d-9fa8-a293aaf1d45f">
+  <a href="https://www.postman.com/workspace/john-miko-echano's-Workspace~8779546a-e909-48b7-8f15-85f340af4d40/collection/54061891-c3e8e5d4-9ffe-4beb-915b-7a1696955f14?action=share&source=copy-link&creator=54061891">
     <img src="https://img.shields.io/badge/API_DOCS-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   </a>
 </p>
@@ -154,10 +154,8 @@
 <div align="center">
 
 ### 🤝 Professional Connection
-<a href="mailto:ronbell.abarquez@cit.edu">
-  <img src="https://img.shields.io/badge/Corporate_Email-D14836?style=flat&logo=gmail&logoColor=white&labelColor=c33" />
-</a>
-<a href="https://github.com/lecciones/Lecciones_Laravel1-IPT209">
+
+<a href=" https://github.com/johnmikoechano11/Echano_Laravel1-IPT209.git">
   <img src="https://img.shields.io/badge/Developer_Profile-181717?style=flat&logo=github&logoColor=white" />
 </a>
 
@@ -165,7 +163,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=80&section=footer" width="100%" />
 
-**© 2026 Jay Ric G. Lecciones**
+**© 2026 John Miko Echano**
 *Enterprise Scholarship Management Solution*
 
 </div>
