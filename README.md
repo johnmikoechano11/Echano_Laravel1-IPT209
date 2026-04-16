@@ -1,91 +1,169 @@
-<div align="center" style="font-family: 'Inter', 'Segoe UI', Roboto, sans-serif; background: #020617; padding: 40px 20px; color: #f8fafc;">
+<div align="center">
 
-  <div style="
-    max-width: 900px;
-    padding: 80px 40px;
-    border-radius: 24px;
-    background: radial-gradient(circle at top left, #1e293b, #020617);
-    border: 1px solid rgba(255, 255, 255, 0.1);
-    box-shadow: 0 0 40px rgba(56, 189, 248, 0.05);
-    margin-bottom: 40px;
-  ">
-    
-    <div style="display: inline-block; background: rgba(56, 189, 248, 0.1); padding: 15px; border-radius: 16px; margin-bottom: 20px;">
-        <span style="font-size: 40px;">⚡</span>
-    </div>
-
-    <h1 style="font-size: 48px; letter-spacing: -1px; margin: 0; font-weight: 800; line-height: 1.1;">
-      Scholarship <span style="background: linear-gradient(to right, #38bdf8, #818cf8); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Portal</span>
-    </h1>
-
-    <p style="color: #94a3b8; font-size: 19px; max-width: 600px; margin: 20px auto 30px; line-height: 1.6;">
-      An enterprise-grade RESTful architecture for automated grant management and applicant tracking.
-    </p>
-
-    <div style="display: flex; justify-content: center; gap: 15px;">
-      <a href="https://github.com/johnmikoechano11/Echano_Laravel1-IPT209.git" style="text-decoration: none; background: #f8fafc; color: #020617; padding: 14px 28px; border-radius: 12px; font-weight: 600; font-size: 15px; transition: 0.3s;">
-        Explore Repository
-      </a>
-      <a href="https://www.postman.com/workspace/john-miko-echano's-Workspace..." style="text-decoration: none; background: rgba(255,255,255,0.05); color: #f8fafc; padding: 14px 28px; border-radius: 12px; font-weight: 600; font-size: 15px; border: 1px solid rgba(255,255,255,0.1);">
-        Interactive Docs
-      </a>
-    </div>
+<div style="background-color: #ffffff; border-radius: 16px; padding: 50px 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.08); border: 1px solid #e1e8ed; max-width: 900px; margin: 20px auto;">
+  <div style="font-size: 55px; margin-bottom: 10px; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.1));">🏢</div>
+  <h1 style="color: #1a1a1a; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 40px; font-weight: 700; margin: 0; letter-spacing: -1px;">Scholarship Management <span style="color: #3b82f6;">Portal</span></h1>
+  <p style="color: #657786; font-size: 18px; margin-top: 10px; font-family: -apple-system, system-ui, sans-serif;">A secure, structured API handler for educational grant administration.</p>
+  
+  <div style="margin-top: 25px; display: flex; justify-content: center; gap: 8px;">
+    <span style="background: #e0f2fe; color: #0369a1; padding: 6px 14px; border-radius: 8px; font-size: 12px; font-weight: 600; font-family: monospace; border: 1px solid #bae6fd;">v1.0.0</span>
+    <span style="background: #d1fae5; color: #065f46; padding: 6px 14px; border-radius: 8px; font-size: 12px; font-weight: 600; font-family: monospace; border: 1px solid #a7f3d0;">BUILD: PASSING</span>
+    <span style="background: #ede9fe; color: #5b21b6; padding: 6px 14px; border-radius: 8px; font-size: 12px; font-weight: 600; font-family: monospace; border: 1px solid #ddd6fe;">DEPS: UPDATED</span>
   </div>
+</div>
 
-  <div style="max-width: 900px; display: grid; grid-template-columns: 1.5fr 1fr; gap: 20px; margin-bottom: 40px;">
-    
-    <div style="background: #0f172a; padding: 30px; border-radius: 20px; border: 1px solid rgba(255,255,255,0.05); text-align: left;">
-      <h3 style="margin-top: 0; font-size: 18px; color: #38bdf8;">📊 System Specs</h3>
-      <div style="display: grid; gap: 15px; margin-top: 20px;">
-        <div style="display:flex; justify-content: space-between; border-bottom: 1px solid rgba(255,255,255,0.05); padding-bottom: 8px;">
-            <span style="color: #64748b;">Developer</span>
-            <span style="font-weight: 600;">John Miko Echano</span>
-        </div>
-        <div style="display:flex; justify-content: space-between; border-bottom: 1px solid rgba(255,255,255,0.05); padding-bottom: 8px;">
-            <span style="color: #64748b;">Environment</span>
-            <span style="font-weight: 600;">Laravel 11 / PHP 8.2</span>
-        </div>
-        <div style="display:flex; justify-content: space-between;">
-            <span style="color: #64748b;">Database</span>
-            <span style="font-weight: 600;">MySQL (Relational)</span>
-        </div>
-      </div>
-    </div>
+<p>
+  <a href=" https://github.com/johnmikoechano11/Echano_Laravel1-IPT209.git">
+    <img src="https://img.shields.io/badge/Developer-John Miko Echano-white?style=flat&logo=github&logoColor=181717&labelColor=f5f8fa&color=e1e8ed" alt="Developer" />
+  </a>
+  <img src="https://img.shields.io/badge/Course-BSIT_2D-white?style=flat&logo=googleclassroom&logoColor=5f6368&labelColor=f5f8fa&color=e1e8ed" alt="Course" />
+</p>
 
-    <div style="background: #0f172a; padding: 30px; border-radius: 20px; border: 1px solid rgba(255,255,255,0.05); display: flex; flex-direction: column; justify-content: center; gap: 10px;">
-        <div style="background: rgba(34, 197, 94, 0.1); color: #4ade80; padding: 10px; border-radius: 8px; font-size: 13px; font-weight: 700;">● BUILD: PASSING</div>
-        <div style="background: rgba(56, 189, 248, 0.1); color: #38bdf8; padding: 10px; border-radius: 8px; font-size: 13px; font-weight: 700;">● VERSION: 1.0.0</div>
-        <div style="background: rgba(168, 85, 247, 0.1); color: #a855f7; padding: 10px; border-radius: 8px; font-size: 13px; font-weight: 700;">● API: SECURED</div>
-    </div>
-  </div>
+<p align="center">
+  <a href=" https://github.com/johnmikoechano11/Echano_Laravel1-IPT209.git">
+    <img src="https://img.shields.io/badge/VIEW_CODE-333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.postman.com/workspace/john-miko-echano's-Workspace~8779546a-e909-48b7-8f15-85f340af4d40/collection/54061891-c3e8e5d4-9ffe-4beb-915b-7a1696955f14?action=share&source=copy-link&creator=54061891">
+    <img src="https://img.shields.io/badge/API_DOCS-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  </a>
+</p>
 
-  <div style="max-width: 900px; background: #0f172a; border-radius: 20px; border: 1px solid rgba(255,255,255,0.05); overflow: hidden; text-align: left;">
-    <div style="padding: 20px 30px; background: rgba(255,255,255,0.02); border-bottom: 1px solid rgba(255,255,255,0.05);">
-        <h3 style="margin: 0; font-size: 18px;">🔗 Endpoint Reference</h3>
-    </div>
-    
-    <div style="padding: 30px; display: grid; grid-template-columns: 1fr 1fr; gap: 40px;">
-        <div>
-            <p style="text-transform: uppercase; font-size: 12px; letter-spacing: 1px; color: #64748b; font-weight: 700;">Public Access</p>
-            <ul style="list-style: none; padding: 0; margin-top: 15px;">
-                <li style="margin-bottom: 10px;"><code style="color: #4ade80; background: rgba(74, 222, 128, 0.1); padding: 4px 8px; border-radius: 4px;">POST</code> <span style="font-family: monospace; font-size: 14px;">/api/register</span></li>
-                <li style="margin-bottom: 10px;"><code style="color: #4ade80; background: rgba(74, 222, 128, 0.1); padding: 4px 8px; border-radius: 4px;">POST</code> <span style="font-family: monospace; font-size: 14px;">/api/login</span></li>
-            </ul>
-        </div>
-        <div>
-            <p style="text-transform: uppercase; font-size: 12px; letter-spacing: 1px; color: #f43f5e; font-weight: 700;">Bearer Token Required</p>
-            <ul style="list-style: none; padding: 0; margin-top: 15px;">
-                <li style="margin-bottom: 10px;"><code style="color: #38bdf8; background: rgba(56, 189, 248, 0.1); padding: 4px 8px; border-radius: 4px;">GET</code> <span style="font-family: monospace; font-size: 14px;">/api/scholarships</span></li>
-                <li style="margin-bottom: 10px;"><code style="color: #fbbf24; background: rgba(251, 191, 36, 0.1); padding: 4px 8px; border-radius: 4px;">PUT</code> <span style="font-family: monospace; font-size: 14px;">/api/users/{id}</span></li>
-            </ul>
-        </div>
-    </div>
-  </div>
+</div>
 
-  <div style="margin-top: 60px; padding-bottom: 20px;">
-    <p style="color: #475569; font-size: 14px;">
-      &copy; 2026 &bull; Crafted with precision by <b>John Miko Echano</b>
-    </p>
-  </div>
+---
+
+## 🎯 Executive Summary
+
+<div align="center">
+  <table border="0" cellpadding="10" cellspacing="0" style="background-color: #ffffff; border-radius: 12px; border: 1px solid #e1e8ed; width: 100%; font-family: -apple-system, system-ui, sans-serif;">
+    <tr style="background-color: #f5f8fa;">
+      <th align="left" style="color: #657786; border-bottom: 1px solid #e1e8ed; padding: 15px;">System Attribute</th>
+      <th align="left" style="color: #657786; border-bottom: 1px solid #e1e8ed; padding: 15px;">Configuration</th>
+    </tr>
+    <tr>
+      <td style="padding: 15px; border-bottom: 1px solid #e1e8ed; color: #1a1a1a;"><strong>Title</strong></td>
+      <td style="padding: 15px; border-bottom: 1px solid #e1e8ed; color: #1a1a1a;">Scholarship Management System</td>
+    </tr>
+    <tr>
+      <td style="padding: 15px; border-bottom: 1px solid #e1e8ed; color: #1a1a1a;"><strong>Lead Developer</strong></td>
+      <td style="padding: 15px; border-bottom: 1px solid #e1e8ed; color: #1a1a1a;">Jay Ric Lecciones</td>
+    </tr>
+    <tr>
+      <td style="padding: 15px; color: #1a1a1a;"><strong>Core Framework</strong></td>
+      <td style="padding: 15px; color: #1a1a1a;">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🛠️ Technological Infrastructure
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postman,git,vscode&theme=light" />
+</div>
+
+---
+
+## 📋 System Features & Implementation Queue
+
+### 1.0 Infrastructure Modules
+| Feature Set | Action Plan | Method | Status |
+| :--- | :--- | :--- | :---: |
+| **Authentication** | Secure Token Registration | `POST` | ✅ |
+| | Stateful User Login | `POST` | ✅ |
+| **User Access** | Paginated Account Listing | `GET` | ✅ |
+| | New Account Provisioning | `POST` | ✅ |
+| | Account Modification | `PUT/PATCH` | ✅ |
+
+### 2.0 Operational Modules
+| Feature Set | Action Plan | Method | Status |
+| :--- | :--- | :--- | :---: |
+| **Scholarships** | Grant Criteria Definition | `POST` | ✅ |
+| | Program Lifecycle Update | `PUT/PATCH` | ✅ |
+| **Applicants** | Student Profile Submission | `POST` | ✅ |
+| | Eligibility Status Review | `PATCH` | ✅ |
+| **Reports** | Data Aggregation Summaries | `GET` | 🚧 |
+
+---
+
+## 📊 Database Entity Model
+
+<div align="center">
+
+| Model | Classification | Description | Status |
+| :--- | :--- | :--- | :---: |
+| **User** | Administrative | Accounts for system governors/staff | Active |
+| **Role** | Configuration | Defined permission tiers (3 Tiers) | Active |
+| **Scholarship** | Operational | Metadata for educational grants | Active |
+| **Applicant** | Client Data | Student submission profiles | Active |
+
+</div>
+
+---
+
+## 🔗 API Documentation (RESTful Schema)
+
+<details>
+<summary><b>🏠 Public Services (No Authentication)</b></summary>
+<br>
+
+| Method | Endpoint | Action |
+| :--- | :--- | :--- |
+| `POST` | `/api/register` | Initialize a new user profile |
+| `POST` | `/api/login` | Authenticate credentials & receive token |
+</details>
+
+<details>
+<summary><b>🔐 Protected Services (Requires Bearer Token)</b></summary>
+<br>
+
+*Header: `Authorization: Bearer {token}`*
+
+#### User Administration
+| Method | Endpoint | Description |
+| :--- | :--- | :--- |
+| `GET` | `/api/users` | Fetch all users (Paginated) |
+| `POST` | `/api/users` | Create a new staff account |
+| `PUT` | `/api/users/{id}` | Update account metadata |
+| `DELETE` | `/api/users/{id}` | Terminate account access |
+| `POST` | `/api/logout` | Revoke current token |
+
+#### Scholarship Administration
+| Method | Endpoint | Description |
+| :--- | :--- | :--- |
+| `GET` | `/api/scholarships` | List all grant programs |
+| `POST` | `/api/scholarships` | Define new grant criteria |
+| `PUT` | `/api/scholarships/{id}` | Update program requirements |
+| `DELETE` | `/api/scholarships/{id}` | Remove scholarship program |
+
+#### Applicant Lifecycle
+| Method | Endpoint | Description |
+| :--- | :--- | :--- |
+| `GET` | `/api/applicants` | Index student submission queue |
+| `POST` | `/api/applicants` | Process new student application |
+| `PATCH` | `/api/applicants/{id}` | Modify status or eligibility |
+| `DELETE` | `/api/applicants/{id}` | Purge applicant record |
+</details>
+
+---
+
+<div align="center">
+
+### 🤝 Professional Connection
+
+<a href=" https://github.com/johnmikoechano11/Echano_Laravel1-IPT209.git">
+  <img src="https://img.shields.io/badge/Developer_Profile-181717?style=flat&logo=github&logoColor=white" />
+</a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=80&section=footer" width="100%" />
+
+**© 2026 John Miko Echano**
+*Enterprise Scholarship Management Solution*
 
 </div>
